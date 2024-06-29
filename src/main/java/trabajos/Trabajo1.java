@@ -6,7 +6,7 @@ public class Trabajo1 {
     //Hacer una calculadora
     public static void main(String[] args) {
 
-asdasdasdasd
+asdasdasdasdasdasd
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Ingrese el primer numero");
